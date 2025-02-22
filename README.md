@@ -23,6 +23,7 @@ This is **MaxiHud**, a modification of [bowieHUD](https://gamebanana.com/mods/43
 - Support for [Hypnootize’s custom crosshairs](https://github.com/Hypnootize/TF2-HUD-Crosshairs).
 - Fixes and improvements to the bowieHUD v1.6 base.
 - And many more!
+
 **Only on servers with `sv_pure` set to `0`.*
 
 # Installation
@@ -52,6 +53,7 @@ If you dont have a "custom" folder, make one.
 [**See more screenshots**](https://mega.nz/folder/3NxT3Dbb#mwdmx-_jfkCHRe1LDz_cQQ)
 
 **Screenshots shown used older versions. Some elements may be different on the current version.*
+
 ***Crosshair shown in screenshots not included. [Download separately](https://gamebanana.com/mods/467250).*
 
 # Add-Ons
