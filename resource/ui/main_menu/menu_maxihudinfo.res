@@ -23,7 +23,7 @@ Scheme
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"MaxiHudVersion"
-		"labelText"			"v1.13.1"
+		"labelText"			"v1.13.2"
 		"font"				"HudFontSmallestBold"
 		"xpos"				"c-50"
 		"ypos"				"456"
