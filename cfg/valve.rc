@@ -1,0 +1,24 @@
+// load the base configuration
+//exec default.cfg
+r_decal_cullsize 1
+
+// Setup custom controller
+exec joystick.cfg
+
+// run a user script file if present
+exec autoexec.cfg
+
+//
+// stuff command line statements
+//
+stuffcmds
+
+// display the startup level
+startupmenu
+
+sv_unlockedchapters 99
+tf_hud_target_id_alpha 230
+tf_hud_show_servertimelimit 1
+tf_coach_request_nevershowagain 1
+sv_allow_point_servercommand always
+exec playlistbuttons.cfg

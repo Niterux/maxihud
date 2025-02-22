@@ -1,0 +1,5 @@
+#base "../resource/scheme/base_scheme.res"
+#base "../resource/scheme/border_scheme.res"
+#base "../resource/scheme/color_scheme.res"
+#base "../resource/scheme/font_scheme.res"
+#base "../resource/crosshairs/crosshair_scheme.res"
