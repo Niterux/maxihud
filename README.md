@@ -15,7 +15,7 @@ This is **MaxiHud**, a modification of [bowieHUD](https://gamebanana.com/mods/43
 - Keyboard interacts in menus to perform actions quickly.
 - Display 8 or 12 killfeed notifications.
 - A unique countdown timer for MvM and Casual mode.
-- Vote icons from Team Fortress 2 Classic* with contextual text colouring for the vote menu.
+- Vote icons from Team Fortress 2 Classic with contextual text colouring for the vote menu.
 - Default fonts replaced with TF2 fonts.
 - New Payload icon by [Vexcenot](https://gamebanana.com/members/2134385).
 - Icons for Selbyen by [Aar](https://gamebanana.com/members/1592670).
@@ -24,7 +24,6 @@ This is **MaxiHud**, a modification of [bowieHUD](https://gamebanana.com/mods/43
 - Fixes and improvements to the bowieHUD v1.6 base.
 - And many more!
 
-**Only on servers with `sv_pure` set to `0`.*
 
 # Installation
 
