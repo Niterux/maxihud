@@ -23,7 +23,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"scaleImage"	"1"
-			"image"			"hud/vote_yes"
+			"image"			"replay/thumbnails/hud/vote_yes"
 		}
 		
 		"PassedTitle"
@@ -391,8 +391,8 @@
 			"box_size"		"16"
 			"spacer"		"6"
 			"box_inset"		"1"
-			"yes_texture"	"vgui/hud/vote_yes"
-			"no_texture"	"vgui/hud/vote_no"			
+			"yes_texture"	"vgui/replay/thumbnails/hud/vote_yes"
+			"no_texture"	"vgui/replay/thumbnails/hud/vote_no"
 		}			
 	}
 	
@@ -420,7 +420,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"scaleImage"	"1"
-			"image"			"hud/vote_no"
+			"image"			"replay/thumbnails/hud/vote_no"
 		}
 		
 		"FailedTitle"
@@ -486,7 +486,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"scaleImage"	"1"
-			"image"			"hud/vote_no"
+			"image"			"replay/thumbnails/hud/vote_no"
 		}
 		
 		"FailedTitle"
