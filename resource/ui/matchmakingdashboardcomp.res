@@ -1238,10 +1238,10 @@
 						"pinCorner"     "3"
 						"visible"       "1"
 						"enabled"       "1"
-						"command"       "url https://comfig.app/quickplay/?autostart=1&gm=arena,alternative,payload_race&autoclose=1"
+						"command"       ""
 						"tabPosition"   "0"
 						"proportionaltoparent" "1"
-						"labeltext"		">"
+						"labeltext"		""
 						"textAlignment"	"west"
 						"font"	"HudFontSmallBold"
 						"textinsetx"	"538"
@@ -1253,9 +1253,9 @@
 						"actionsignallevel" "2"
 						"defaultFgColor_override"	"117 107 94 200"
 						"armedFgColor_override"		"TanLight"
-						"sound_depressed"   "UI/buttonclick.wav"
-						"sound_released"    "UI/buttonclickrelease.wav" 
-						"sound_armed"		"ui/item_info_mouseover.wav"
+						"sound_depressed"   ""
+						"sound_released"    "" 
+						"sound_armed"		""
 						"paintbackground"   "0"
 					}
 					
@@ -1292,7 +1292,7 @@
 			
 					"GamemodePicture"
 					{
-						"ControlName"			"ImagePanel"
+						"ControlName"			"CTFImagePanel"
 						"fieldName"				"GamemodePicture"
 						"xpos"					"0"
 						"ypos"					"3"			//first one is different bc of fucky spacing
@@ -1301,7 +1301,7 @@
 						"tall"					"51"
 						"visible"				"1"
 						"enabled"				"1"
-						"image"					"../vgui/competitive/12v12_background001"
+						"image"					"../vgui/replay/thumbnails/quickplay/comfig_quickplay"
 						"scaleImage"			"1"
 						"proportionaltoparent"	"1"
 						"mouseinputenabled"		"0"
@@ -1487,7 +1487,7 @@
 			
 					"GamemodePicture"
 					{
-						"ControlName"			"ImagePanel"
+						"ControlName"			"CTFImagePanel"
 						"fieldName"				"GamemodePicture"
 						"xpos"					"0"
 						"ypos"					"4-1-1"
@@ -1496,7 +1496,7 @@
 						"tall"					"51"
 						"visible"				"1"
 						"enabled"				"1"
-						"image"					"../vgui/competitive/12v12_background002"
+						"image"					"../vgui/replay/thumbnails/quickplay/uncletopia"
 						"scaleImage"			"1"
 						"proportionaltoparent"	"1"
 						"mouseinputenabled"		"0"
@@ -1682,7 +1682,7 @@
 			
 					"GamemodePicture"
 					{
-						"ControlName"			"ImagePanel"
+						"ControlName"			"CTFImagePanel"
 						"fieldName"				"GamemodePicture"
 						"xpos"					"0"
 						"ypos"					"4-1-1"
@@ -1691,7 +1691,7 @@
 						"tall"					"51"
 						"visible"				"1"
 						"enabled"				"1"
-						"image"					"../vgui/competitive/12v12_background003"
+						"image"					"../vgui/replay/thumbnails/quickplay/teamwork_dot_tf"
 						"scaleImage"			"1"
 						"proportionaltoparent"	"1"
 						"mouseinputenabled"		"0"
@@ -1887,7 +1887,7 @@
 				//"tall"			"11"
 				"wide"			"13"
 				"tall"			"13"
-				"visible"		"1"
+				"visible"		"0"
 				"enabled"		"1"
 				"image"			"glyph_options"
 				"scaleImage"	"1"
@@ -1911,7 +1911,7 @@
 			"autoResize"	"0"
 			"wrap"			"0"
 			"pinCorner"		"0"
-			"visible"		"1"
+			"visible"		"0"
 			"enabled"		"1"
 		}
 	}

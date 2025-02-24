@@ -309,7 +309,7 @@
 			
 			"ReadyImage"
 			{
-				"ControlName"		"ImagePanel"
+				"ControlName"	"CTFImagePanel"
 				"fieldName"		"ReadyImage"
 				"xpos"			"32"
 				"ypos"			"8"
@@ -320,7 +320,7 @@
 				"pinCorner"		"0"
 				"visible"		"0"
 				"enabled"		"1"
-				"image"			"hud/checkmark"
+				"image"			"replay/thumbnails/hud/checkmark"
 				"scaleImage"	"1"
 
 				if_mvm

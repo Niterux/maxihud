@@ -865,7 +865,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"RotateLabel"
 		"font"			"DefaultSmall"
-		"labelText"		"#IT_BotAnim_Turntable"
+		"labelText"		"Rotate"
 		"textAlignment"	"west"
 		"xpos"			"c345"
 		"ypos"			"324"
