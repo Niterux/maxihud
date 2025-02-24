@@ -11,10 +11,10 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"border"		"TFFatLineBorderOpaque"
-	
+				
 		"PassedIcon"
 		{
-			"ControlName"	"CTFImagePanel"
+			"ControlName"	"ImagePanel"
 			"fieldName"		"PassedIcon"
 			"xpos"			"10"
 			"ypos"			"10"
@@ -392,7 +392,7 @@
 			"spacer"		"6"
 			"box_inset"		"1"
 			"yes_texture"	"vgui/replay/thumbnails/hud/vote_yes"
-			"no_texture"	"vgui/replay/thumbnails/hud/vote_no"			
+			"no_texture"	"vgui/replay/thumbnails/hud/vote_no"
 		}			
 	}
 	
@@ -408,10 +408,10 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"border"		"TFFatLineBorderOpaque"
-
+				
 		"FailedIcon"
 		{
-			"ControlName"	"CTFImagePanel"
+			"ControlName"	"ImagePanel"
 			"fieldName"		"FailedIcon"
 			"xpos"			"10"
 			"ypos"			"10"
@@ -474,10 +474,10 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"border"		"TFFatLineBorderOpaque"
-
+				
 		"FailedIcon"
 		{
-			"ControlName"	"CTFImagePanel"
+			"ControlName"	"ImagePanel"
 			"fieldName"		"FailedIcon"
 			"xpos"			"10"
 			"ypos"			"10"
@@ -573,7 +573,7 @@
 			"enabled"		"1"
 			"wrap"			"0"
 		}
-
+									
 		"VoteSetupList"
 		{
 			"ControlName"	"SectionedListPanel"
@@ -655,7 +655,7 @@
 			"selectionTextColor_override" "117 107 94 255"
 			"defaultSelectionBG2Color_override" "251 235 202 255"
 		}
-
+			
 		"CallVoteButton"
 		{
 			"ControlName"		"Button"
